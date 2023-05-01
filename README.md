@@ -10,7 +10,7 @@ Abstract: This project is to practice git.
 - Visual mode: press `v` on Normal mode
 - Command mode: press `:` on Normal mode
 
-##Installation
+## Installation
 
 ```shell
 $ git clone {repo address}
