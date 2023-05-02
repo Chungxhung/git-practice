@@ -17,7 +17,9 @@ $ git clone {repo address}
 $ cd {repo name}
 $ vi README.md
 
-##How to start
+Now, I an doing unstage
+
+## How to start
 
 ```python
 def hello(name):
